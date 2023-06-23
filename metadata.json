@@ -4,5 +4,5 @@
   "description": "An easy and clean viewer of USD -> ZAR currency. In which it is easy to understand if the currency is increasing or decreasing.", 
   "version": 3.5,
   "shell-version": ["42"],
-  "url": "https://github.com/Bramba7/USD-BRA"
+  "url": "https://github.com/pipedream/usd-zar"
 }
