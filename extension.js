@@ -99,7 +99,7 @@ async function handle_request_dollar_api() {
  
             // Sent text in Widget
             panelButtonText = new St.Label({
-                text: " ZAR: $" + dollarQuotation + " " + upDownIcon,
+                text: "$:ZAR" + dollarQuotation + " " + upDownIcon,
                 y_align: Clutter.ActorAlign.CENTER,
             });
             panelButton.set_child(panelButtonText);
@@ -112,7 +112,7 @@ async function handle_request_dollar_api() {
     } catch (error) {
         log(`Traceback Error in [handle_request_dollar_api]: ${error}`);
         panelButtonText = new St.Label({
-            text: "ZAR: $" + _dollarQuotation +  " * ",
+            text: "$:ZAR" + _dollarQuotation +  " * ",
             y_align: Clutter.ActorAlign.CENTER,
         });
         panelButton.set_child(panelButtonText);
