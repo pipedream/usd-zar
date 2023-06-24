@@ -5,7 +5,7 @@ USR-ZAR is a Gnome extension that displays the Dollar to Rand exchange rate. The
 # Installation instructions
 * Click on the green Code button above
 * Download ZIP
-* Open a terminal and type the command ```gnome-extensions install Downloads/usd-zar.zip```
+* Open a terminal and type the command ```gnome-extensions install Downloads/usd-zar.zip``` (if you saved in the default Downloads/ folder)
 * On Wayland log out and in again, and on Xorg press Alt-F2, r<enter> to restart 
 * Then turn USD-ZAR on in the Gnome Extensions app
 
