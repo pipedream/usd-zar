@@ -1,6 +1,6 @@
 # usd-zar
 
-USR-ZAR is a Gnome extension that displays the Dollar to Rand exchange rate. The rate is downloaded from https://docs.awesomeapi.com.br. It is a fork of https://extensions.gnome.org/extension/5371/usd-bra
+USR-ZAR is a Gnome extension that displays the Dollar to Rand exchange rate. The rate is downloaded from https://docs.awesomeapi.com.br. It is a fork of https://extensions.gnome.org/extension/5371/usd-bra.
 
 # Installation instructions
 * Click on the green Code button above
