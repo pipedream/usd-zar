@@ -1,8 +1,8 @@
 {
   "uuid": "jan.groenewald@gmail.com",
-  "name": "USD-ZAR",
+  "name": "USD-ZAR2",
   "description": "An easy and clean viewer of USD -> ZAR currency. In which it is easy to understand if the currency is increasing or decreasing.", 
   "version": 3.5,
-  "shell-version": ["42"],
+  "shell-version": ["43"],
   "url": "https://github.com/pipedream/usd-zar"
 }
